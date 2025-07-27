@@ -1,0 +1,11 @@
+{
+  "sites": [{
+    "key": "非凡APP",
+    "name": "非凡APP",
+    "type": 1,
+    "api": "https://mm.118318.xyz/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  }]
+}
